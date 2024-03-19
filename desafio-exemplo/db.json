@@ -1,0 +1,29 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "titulo": "Anime acre",
+      "url": "https://imgs.search.brave.com/l91ZEpIdOy1VAsTF9EJOcT4ZLOPWrgCx0_YtSaa7d2M/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzdmLzE5/L2MzLzdmMTljMzVi/M2NiMzBkMDBkMzcw/YTgwYmI2MGU1MzFi/LmpwZw"
+    },
+    {
+      "id": 2,
+      "titulo": "Olá, mundo!",
+      "url": "https://imgs.search.brave.com/l91ZEpIdOy1VAsTF9EJOcT4ZLOPWrgCx0_YtSaa7d2M/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzdmLzE5/L2MzLzdmMTljMzVi/M2NiMzBkMDBkMzcw/YTgwYmI2MGU1MzFi/LmpwZw"
+    },
+    {
+      "id": 2,
+      "titulo": "OOIIII TUDO BEM",
+      "url": "https://imgs.search.brave.com/l91ZEpIdOy1VAsTF9EJOcT4ZLOPWrgCx0_YtSaa7d2M/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9pLnBp/bmltZy5jb20vb3Jp/Z2luYWxzLzdmLzE5/L2MzLzdmMTljMzVi/M2NiMzBkMDBkMzcw/YTgwYmI2MGU1MzFi/LmpwZw"
+    },
+    {
+      "id": "b29f",
+      "titulo": "teste",
+      "url": "teste"
+    },
+    {
+      "id": "ae41",
+      "titulo": "Naruto anime",
+      "url": "https://imgs.search.brave.com/Svi0m9K0yvxW7v4ryZ7UUkiMV9MaeP_bec_R2bvFgrc/rs:fit:500:0:0/g:ce/aHR0cHM6Ly9weGJh/ci5jb20vd3AtY29u/dGVudC91cGxvYWRz/LzIwMjQvMDIvbmFy/dXRvLXBpY3R1cmVz/LmpwZw"
+    }
+  ]
+}
