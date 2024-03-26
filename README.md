@@ -10,7 +10,7 @@
 - Criar o component de Main
 - Criar o component de Footer
 - Todos os componentes devem está estilizado(css).
-- Cada component deve ter uma pasta, e dentro dessa pasta conter o seu jsx e css.
+- Cada component deve ter uma pasta, e dentro dessa pasta conter jsx e css.
   
 <hr>
 
