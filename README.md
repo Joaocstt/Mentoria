@@ -1,21 +1,17 @@
 
-- Instalar o node js
-- Instalar o JSON server
+- Você precisa ter o node js instalado.
+- Instalar o REACT usando o comando do vite
+- npm create vite@latest
 
-# Desenvolver um sistema de gerenciamento de eventos para uma aplicação web.
+# Desenvolver um site simples utilizando o React.
 
-*Na página inicial:*
-- Exibir uma lista de eventos.
-- Incluir uma opção para adicionar um novo evento diretamente na página.
-- Cada evento listado deve ter botões de edição e exclusão.
-
-*Ao clicar em editar*:
-- Redirecionar o usuário para outra página para editar as informações do evento selecionado.
-
-*Ao clicar em excluir:*
-- Remover permanentemente o evento selecionado.
-- Todas as funcionalidades devem estar vinculadas a uma API para garantir a persistência dos dados.
+*Você deve criar uma pasta componentes dentro da pasta src gerado pelo react*
+- Criar o component de Header.
+- Criar o component de Main
+- Criar o component de Footer
+- Todos os componentes devem está estilizado(css).
+- Cada component deve ter uma pasta, e dentro dessa pasta conter o seu jsx e css.
   
 <hr>
 
-- Prazo de entrega: 22/03/2024
+- Prazo de entrega: 27/03/2024
