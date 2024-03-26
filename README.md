@@ -7,8 +7,8 @@
 
 *Você deve criar uma pasta componentes dentro da pasta src gerado pelo react*
 - Criar o component de Header.
-- Criar o component de Main
-- Criar o component de Footer
+- Criar o component de Main.
+- Criar o component de Footer.
 - Todos os componentes devem está estilizado(css).
 - Cada component deve ter uma pasta, e dentro dessa pasta conter jsx e css.
   
