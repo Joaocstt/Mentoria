@@ -5,6 +5,4 @@
 
 # Desenvolver o (EDITAR) e (DELETAR).
 
-<hr>
-
 - Prazo de entrega: 12/04/2024
