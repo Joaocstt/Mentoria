@@ -1,0 +1,24 @@
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 20px auto;
+    max-width: 500px;
+}
+
+li {
+    padding: 10px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    background-color: rgb(217, 236, 245);
+    border-bottom: 1px solid #ccc;
+    margin-bottom: 5px;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px #ccc;
+}
+
+.icons {
+    display: flex;
+    gap: 10px;
+    cursor: pointer;
+}
