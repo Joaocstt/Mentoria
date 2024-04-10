@@ -1,15 +1,10 @@
 
 - Você precisa ter o node js instalado.
-- Instalar o REACT usando o comando do vite
-- npm create vite@latest
+- Com base no projeto que criamos na aula, baixe e use o npm install
+- Após isso, utilize npm run dev
 
-# Desenvolver um site simples utilizando props em todos os componentes.
+# Desenvolver o (EDITAR) e (DELETAR).
 
-*Você deve criar uma pasta componentes dentro da pasta src gerado pelo react*
-- Criar o component de Header onde posso alterar os itens do menu por props.
-- Todos os componentes devem está estilizado(css).
-- Cada component deve ter uma pasta, e dentro dessa pasta conter jsx e css.
-  
 <hr>
 
-- Prazo de entrega: 01/03/2024
+- Prazo de entrega: 12/04/2024
